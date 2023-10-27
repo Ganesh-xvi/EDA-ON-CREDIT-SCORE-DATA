@@ -1,3 +1,7 @@
+![dataset-cover](https://github.com/Ganesh-xvi/EDA-on-credit-score-classification/assets/134574667/ea04486e-cebf-4beb-b8d5-11ed9c254c6f)
+
+
+
 # Project Title
 
 EDA on credit score classification
