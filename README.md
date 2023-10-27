@@ -1,10 +1,6 @@
-# CreditScoreClassification-DataCleaning-EDA
-
-![WhatsApp Image 2023-09-05 at 10 53 53](https://github.com/Ganesh-xvi/CreditScoreClassification-DataCleaning-EDA/assets/134574667/012e12d5-1b7d-4e98-8b27-210e3714b4c5)
-
 # Project Title
 
-Credit Score Classification ( Data cleaning and EDA )
+EDA on credit score classification
 
 ## Languages and Tools:
  numpy,pandas,matplotlib,seaborn
@@ -70,19 +66,19 @@ Monthly_Balance:Represents the monthly balance amount of the customer
 Credit_Score:Represents the bracket of credit score (Poor, Standard, Good) ((Target))
 ## Project Pipeline:
 1. Summary
-2. Import Libraries
-3. Load Data
+2 .Data Dictionary
+3. Importing Libraries
 4. Exploratory Data Analysis
-5. Preview Dataset
-6. Data Cleaning
-7. Missing value treatment
-8. Outlier detection
-9. visualization
-
-   9.1 Categorical Variables
-   
-   9.2 Numerical Variables  
-10. Data Transformation
+   - 4.1 Data Cleaning
+   - 4.2 Descriptive Statistics
+   - 4.3 Univariate Analysis
+   - 4.4 Bivariate  Analysis
+   - 4.5 Multivariate Analysis
+5. Missing value treatment
+6. Outlier detection
+7. Data Transformation
+   - 7.1 Lable Encoding
+   - 7.2 Scaling
 ## Overall View Of Dataset:
 In this dataset, there are 100000 rows and 28 columns. There are missing values in the dataset, but no duplicate values. Some features need to be cleaned and converted to numeric, and there are a lot of outliers in the dataset.
 ## Data set:
